@@ -7,16 +7,16 @@
 ![](/images/cv2024_foto2.png)
 ### *Get to know me in 1 minute:*
 
-Hi, and thank you for visiting my website. My name is Thanet Pitakbut. I completed my PhD in Chemical Biology under the supervision of Prof. Dr. h.c. Oliver Kayser at Technical Biochemistry, TU Dortmund, Germany. My PhD was sponsored by DAAD (Deutscher Akademischer Austauschdienst or German Academic Exchange Service). 
+Dr. rer. nat. Thanet Pitakbut is a university lecturer in the Traditional Thai Medicine Program at Thaksin University, Thailand.
 
+His research sits at the intersection of natural products, computational chemistry, and artificial intelligence, focusing on leveraging computational simulations and machine learning to analyze medicinal plants and their therapeutic potential.
 
-I am a postdoctoral researcher under Prof. Dr. Astrid Groot at the Institute for Biodiversity and Ecosystem Dynamics (IBED), University of Amsterdam (UvA), the Netherlands. I am working on the research collaboration project "Predicting and designing olfactory molecules," which is funded by The Molecular and Material Design Technology Hub (MMD TechHub). This project is a highly interdisciplinary project that involves multiple scientific fields and experts, including biology, chemistry, mathematics, and AI. 
+He completed his doctoral degree in Germany, fully funded by the German Academic Exchange Service (DAAD).
 
-&nbsp;
+Prior to his faculty appointment at Thaksin University, Dr. Pitakbut advanced his research through two postdoctoral fellowships at the Friedrich-Alexander University of Erlangen–Nuremberg (FAU) in Germany and the University of Amsterdam (UvA) in the Netherlands.
 
-Project website: [**Click**](https://www.uva.nl/en/about-the-uva/organisation/faculties/faculty-of-science/valorisation/mmd-hub/navigation/mmd-project-predicting-and-designing-olfactory-molecules.html).
+He welcomes interdisciplinary research collaborations focused on natural product discovery and AI applications in traditional and modern medicines. 
 
-Official personal website: [**Click**](https://www.uva.nl/en/profile/p/i/t.pitakbut/t.pitakbut.html)
 
 &nbsp;
 
@@ -39,6 +39,10 @@ Deadline for manuscript submissions: **30 June 2026**
 
 ### *Lastest update :* 
 ![](/images/line04.png)
+
+### - 2026 April
+
+I am appointed as a university lecturer at Thaksin University, Thailand.
 
 ### - 2025 November
 
